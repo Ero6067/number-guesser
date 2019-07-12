@@ -11,5 +11,5 @@ Uses HTML5, Javascript, Skeleton
 
 # Run
 
-* `clone https://github.com/Ero6067/number-guesser.git`
+* `git clone https://github.com/Ero6067/number-guesser.git`
 * open index.html
